@@ -11,10 +11,23 @@ I’m focused on becoming a **Software Engineer**, learning and creating project
 
 <p align="left">
   <a href="https://github.com/valterjoose">
-    <img src="https://img.shields.io/badge/GitHub-VALTERJOOSE-181717?style=for-the-badge&logo=github" />   
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="margin-right: 10px;" />
   </a>
+
+  <a href="https://www.linkedin.com/in/válter-josé-nascimento-lira-1a56753b4">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" style="margin-right: 10px;" />
+  </a>
+
   <a href="https://instagram.com/valterjoose">
-    <img src="https://img.shields.io/badge/Instagram-@VALTERJOOSE-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" style="margin-right: 10px;" />
+  </a>
+
+  <a href="mailto:seuemail@gmail.com">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" style="margin-right: 10px;" />
+  </a>
+
+  <a href="https://discord.gg/SEU-CONVITE">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="40" />
   </a>
 </p>
 
