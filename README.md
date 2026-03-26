@@ -10,12 +10,12 @@ I’m focused on becoming a **Software Engineer**, learning and creating project
 ## 🌐 Where to find me
 
 <p align="center">
-  <a href="https://github.com/valterjoose">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="margin: 0 10px;" />
+  <a href="https://github.com/valterjoose" style="display: inline-block; padding: 0 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" />
   </a>
 
-  <a href="https://www.linkedin.com/in/válter-josé-nascimento-lira-1a56753b4">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" style="margin: 0 10px;" />
+  <a href="https://www.linkedin.com/in/válter-josé-nascimento-lira-1a56753b4" style="display: inline-block; padding: 0 15px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" />
   </a>
 </p>
 ---
