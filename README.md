@@ -1,8 +1,5 @@
 # Hi 👋, I'm Válter
 
-🚀 **Computer Science Student | Python, Java & JavaScript**  
-🇧🇷 Brazil  
-
 I'm currently studying **Computer Science** and building my skills in **software development**.  
 I’m focused on becoming a **Software Engineer**, learning and creating projects with real-world applications.
 
