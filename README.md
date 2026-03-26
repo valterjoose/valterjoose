@@ -9,25 +9,21 @@ I’m focused on becoming a **Software Engineer**, learning and creating project
 
 ## 🌐 Where to find me
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/valterjoose">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" style="margin-right: 10px;" />
+    <img src="https://cdn.simpleicons.org/github/ff5c7c" width="40" />
   </a>
-
   <a href="https://www.linkedin.com/in/válter-josé-nascimento-lira-1a56753b4">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" style="margin-right: 10px;" />
+    <img src="https://cdn.simpleicons.org/linkedin/ff5c7c" width="40" />
   </a>
-
   <a href="https://instagram.com/valterjoose">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" width="40" style="margin-right: 10px;" />
+    <img src="https://cdn.simpleicons.org/instagram/ff5c7c" width="40" />
   </a>
-
   <a href="mailto:seuemail@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="40" style="margin-right: 10px;" />
+    <img src="https://cdn.simpleicons.org/gmail/ff5c7c" width="40" />
   </a>
-
   <a href="https://discord.gg/SEU-CONVITE">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" width="40" />
+    <img src="https://cdn.simpleicons.org/discord/ff5c7c" width="40" />
   </a>
 </p>
 
