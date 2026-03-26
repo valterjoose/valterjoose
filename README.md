@@ -68,8 +68,6 @@ I’m focused on becoming a **Software Engineer**, learning and creating project
 
 <br clear="both"/>
 
----/>
-
 ## 🚀 Goals
 
 - 📌 Build real projects and publish on GitHub  
