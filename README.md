@@ -53,8 +53,8 @@ I’m focused on becoming a **Software Engineer**, learning and creating project
 <br/>
 
 ---
-
-## 🚀 Goals
+ 
+### 🚀 Goals
 
 - 📌 Build real projects and publish on GitHub  
 - 📌 Learn backend and software engineering concepts  
