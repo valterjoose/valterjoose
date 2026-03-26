@@ -13,6 +13,7 @@ I’m focused on becoming a **Software Engineer**, learning and creating project
 <p align="left">
   <a href="https://github.com/valterjoose">
     <img src="https://img.shields.io/badge/GitHub-VALTERJOOSE-181717?style=for-the-badge&logo=github" />
+    
   </a>
   <a href="https://instagram.com/valterjoose">
     <img src="https://img.shields.io/badge/Instagram-@VALTERJOOSE-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
