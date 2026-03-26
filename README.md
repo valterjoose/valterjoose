@@ -10,27 +10,23 @@ I’m focused on becoming a **Software Engineer**, learning and creating project
 ## 🌐 Where to find me
 <!-- Social icons section -->
 <p align="center">
-  <a href="https://github.com/valterjoose">
-    <img width="40px" alt="GitHub" title="GitHub"
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+  <a href="https://github.com/valterjoose" style="text-decoration: none;">
+    <img width="40px" alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
-  <a href="https://www.linkedin.com/in/válter-josé-nascimento-lira-1a56753b4">
-    <img width="40px" alt="LinkedIn" title="LinkedIn"
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
+  <a href="https://www.linkedin.com/in/válter-josé-nascimento-lira-1a56753b4" style="text-decoration: none;">
+    <img width="40px" alt="LinkedIn" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
-  <a href="mailto:seuemail@gmail.com">
-    <img width="40px" alt="Gmail" title="Gmail"
-         src="https://cdn.simpleicons.org/gmail"/>
+  <a href="mailto:seuemail@gmail.com" style="text-decoration: none;">
+    <img width="40px" alt="Gmail" src="https://cdn.simpleicons.org/gmail"/>
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
-  <a href="https://discord.gg/SEU-CONVITE">
-    <img width="40px" alt="Discord" title="Discord"
-         src="https://cdn.simpleicons.org/discord"/>
+  <a href="https://discord.gg/SEU-CONVITE" style="text-decoration: none;">
+    <img width="40px" alt="Discord" src="https://cdn.simpleicons.org/discord"/>
   </a>
 </p>
 
