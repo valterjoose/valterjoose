@@ -6,7 +6,6 @@ I'm currently studying **Computer Science** and building my skills in **software
 I’m focused on becoming a **Software Engineer**, learning and creating projects with real-world applications.
 
 ---
-
 ## 🌐 Where to find me
 <!-- Social icons section -->
 <p align="center">
