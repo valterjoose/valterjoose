@@ -21,16 +21,6 @@ I’m focused on becoming a **Software Engineer**, learning and creating project
 
 ---
 
-## 🧠 What I’m learning
-
-- 🐍 Python (logic, automation, fundamentals)  
-- ☕ Java (OOP and backend concepts)  
-- 🌐 JavaScript (web development)  
-- 🧩 Programming logic & problem solving  
-- 🏗️ Software development fundamentals  
-
----
-
 ## 🛠️ Tech Stack (evolving)
 
 ### 💻 Languages
