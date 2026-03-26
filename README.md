@@ -8,14 +8,7 @@ I’m focused on becoming a **Software Engineer**, learning and creating project
 ---
 ## 🌐 Where to find me
 <!-- Social icons section -->
-<img 
-    align="left" 
-    alt="Linkedin" 
-    title="Linkedin"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
-" 
+
 
 ## 🛠️ Tech Stack (evolving)
 
