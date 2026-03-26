@@ -33,8 +33,6 @@ I’m focused on becoming a **Software Engineer**, learning and creating project
 
 ---
 
----
-
 ## 🚀 Goals
 
 - 📌 Build real projects and publish on GitHub  
