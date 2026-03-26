@@ -29,7 +29,7 @@ I’m focused on becoming a **Software Engineer**, learning and creating project
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-### 📊 Estatísticas
+## 📊 Estatísticas
 
 <p>
   <img 
@@ -53,7 +53,7 @@ I’m focused on becoming a **Software Engineer**, learning and creating project
 
 ---
  
-### 🚀 Goals
+## 🚀 Goals
 
 - 📌 Build real projects and publish on GitHub  
 - 📌 Learn backend and software engineering concepts  
