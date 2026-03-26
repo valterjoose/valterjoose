@@ -22,12 +22,6 @@ I’m focused on becoming a **Software Engineer**, learning and creating project
   </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 
-  <a href="https://instagram.com/valterjoose">
-    <img width="40px" alt="Instagram" title="Instagram"
-         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/instagram/instagram-original.svg"/>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-
   <a href="mailto:seuemail@gmail.com">
     <img width="40px" alt="Gmail" title="Gmail"
          src="https://cdn.simpleicons.org/gmail"/>
