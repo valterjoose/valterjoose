@@ -65,6 +65,7 @@ I’m focused on becoming a **Software Engineer**, learning and creating project
   />
 
 </p>
+</br>
 
 ---
 
