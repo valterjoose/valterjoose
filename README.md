@@ -11,22 +11,25 @@ I’m focused on becoming a **Software Engineer**, learning and creating project
 
 <p align="center">
   <a href="https://github.com/valterjoose">
-    <img src="https://cdn.simpleicons.org/github/ff5c7c" width="40" />
+    <img src="https://cdn.simpleicons.org/github" width="40" />
   </a>
+  
   <a href="https://www.linkedin.com/in/válter-josé-nascimento-lira-1a56753b4">
-    <img src="https://cdn.simpleicons.org/linkedin/ff5c7c" width="40" />
+    <img src="https://cdn.simpleicons.org/linkedin" width="40" />
   </a>
+  
   <a href="https://instagram.com/valterjoose">
-    <img src="https://cdn.simpleicons.org/instagram/ff5c7c" width="40" />
+    <img src="https://cdn.simpleicons.org/instagram" width="40" />
   </a>
+  
   <a href="mailto:seuemail@gmail.com">
-    <img src="https://cdn.simpleicons.org/gmail/ff5c7c" width="40" />
+    <img src="https://cdn.simpleicons.org/gmail" width="40" />
   </a>
+  
   <a href="https://discord.gg/SEU-CONVITE">
-    <img src="https://cdn.simpleicons.org/discord/ff5c7c" width="40" />
+    <img src="https://cdn.simpleicons.org/discord" width="40" />
   </a>
 </p>
-
 ---
 
 ## 🛠️ Tech Stack (evolving)
